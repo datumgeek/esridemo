@@ -1,3 +1,17 @@
 page-contact {
 
 }
+
+    #contactdiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+    
+    #contacthomediv {
+      left: 15px;
+      top: 130px;
+      z-index: 35;
+      position: absolute;
+    }
